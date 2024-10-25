@@ -1,16 +1,11 @@
-# utsflutter
+# login
 
-A new Flutter project.
+Projek UTS Login Pemograman Perangkat Bergerak
 
-## Getting Started
+Nama : M Dhika Maulana P
+NIM  : 362358302102
+Kelas: 2D TRPL
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Register](<lib/assets/images/Screenshot (65).png>)
+![Login](<lib/assets/images/Screenshot (66).png>)
+![Home](<lib/assets/images/Screenshot (67).png>)
